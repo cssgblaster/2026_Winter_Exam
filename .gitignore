@@ -1,0 +1,12 @@
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+hello_cpp
+hello_class
+
+info_finished.txt
+content.md
+
